@@ -3,12 +3,6 @@
 <div align="center">
 
 
-> Technical founder
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=ibrahxbt&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F304168898%3Fv%3D4" alt="ibrahxbt hero visual" />
-</p>
-
 </div>
 
 ## The point of view
